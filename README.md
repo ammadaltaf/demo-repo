@@ -1,2 +1,2 @@
 # demo-repo
-This is my first Git Repository of Laravel
+This is my first Git Repository
